@@ -1,6 +1,4 @@
 # 데이터 분석 활용한 대형 폐기품(가전, 가구 등) 간소화 시스템
-데이터 분석 활용한 대형 폐기품(가전, 가구 등) 간소화 시스템
-
 
 ## 📘 소개  
 편리성, 정확성, 확장성, 수익성을 가지고 (중)대형 생활 폐기물 처리하는 딥러닝 어플리케이션
@@ -80,7 +78,7 @@
 
 
 
-## 결과물
+## 📦 결과물
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0cd97aa9-4edb-4479-8aa5-04aa26601fda" width="19%" />
   <img src="https://github.com/user-attachments/assets/31b2d09d-7f6b-4535-aaf5-7b4f31a541cf" width="19%" />
