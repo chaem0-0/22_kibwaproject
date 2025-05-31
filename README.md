@@ -54,15 +54,16 @@
 #### 전자제품 (9종)
 - Air fryer, Fan, Gas stove, Microwave, Refrigerator  
 - Rice cooker, TV, Vacuum, Washing machine
-
-
+<br>
+<br>
 
 ## 🔬 학습 및 추론 방식 (DensNet vs ResNet)
 전이학습 기반 CNN 모델 3종을 비교 실험:
 - **전이 학습(Transfer Learning)**을 활용하여 소량의 폐기물 이미지 데이터에도 효과적으로 학습할 수 있도록 설계
 - 사전 학습된 ImageNet 가중치를 활용하고, 최상위 레이어를 폐기물 18종 분류에 맞게 재학습(fine-tuning) 함
 - 데이터셋은 훈련(80%), 검증(10%), 테스트(10%)로 분할하여 학습의 일반화 성능 확보
-
+<br>
+<br>
 
 ## 📊 모델 성능 비교
 | 모델 | Val_Loss | Val_Accuracy (%) |
@@ -75,7 +76,8 @@
 ✅ **DenseNet121**은 가장 적은 Loss와 높은 Accuracy를 기록하여 최종 분류 모델로 선정  
 ✅ DenseNet은 모든 레이어가 서로 연결되어 있어 적은 정보 손실과 높은 학습 효율
 ✅ ResNet보다 더 적은 파라미터로도 높은 정확도 달성 확인
-
+<br>
+<br>
 
 
 ## 📦 결과물
